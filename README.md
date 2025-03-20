@@ -1,5 +1,5 @@
 # DeAI-Week-3
-##Weekend Project
+## Weekend Project
 To consolidate this week's knowledge, students should complete the following project:
 
 Create a GitHub repository for your project
